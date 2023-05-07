@@ -13,8 +13,8 @@ Before you read on, my personal recommendation is this, if you have an engine wh
 
 <h2>Kit List </h2>
 <ul>
-<li>12v DC pump (suitable for ethanol based fluids) </li>
-<li>12v DC solenoid (not required but a good addition just for extra safety) </li>
+<a href="https://www.amazon.co.uk/dp/B08C4SM5QC"><li>12v DC pump (suitable for ethanol based fluids) </li></a>
+<a href="https://www.amazon.co.uk/Electric-Solenoid-Normally-Solid-U-S/dp/B01NBUFFEG/"><li>12v DC solenoid (not required but a good addition just for extra safety) </li></a>
 <li>Nylon tubing </li>
 <li>1 gallon tank </li>
 <li>Atomiser nozzle (in this project I used a Devilsown injector)</li>
@@ -22,6 +22,8 @@ Before you read on, my personal recommendation is this, if you have an engine wh
 <li>18ga wire </li>
 <li>Wire taps</li>
 <li>Rocker switch</li>
+<a href="https://www.amazon.co.uk/METERXITY-Pack-Brass-Hose-Fittings/dp/B0BV29SXLS"><li>Fittings for pump</li></a>
+<a href="https://www.amazon.co.uk/METERXITY-Pack-Brass-Hose-Fittings/dp/B0BV29SXLS"><li>Fittings for solenoid</li></a>
 </ul>
 
 With all the kit above every component you wish to use should be suitable to transport or store fluids which contain ethanol, so check accordingly before you buy, or as an extra precautionary measure, buy aftermarket gaskets which you can be certain are rated to not be broken down by the methanol mix. 
