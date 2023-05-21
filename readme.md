@@ -44,4 +44,8 @@ The above components will come together as follows. I will wire my components in
 <br>
 As you can see from the steps and the crude drawing above there's not too much work if you decide to do things yourself. Obviously your own system will be less reliable and tested compared to the kits being offered, but that's where your own design choices come into play. If you wish you could add level sensors and more robust safety features.
 
+<hr>
+<h2>Controlling Boost</h2>
+Haven't done an extensive amount of research into this but there are a variety of ways to measure boost to enable boost control for the meth system. The best way I've found is by using MAFF sensor readings, if your vehicle isn't supercharged or turbo'd the stock MAFF may not read boost, so an aftermarket one will be necessary. </br>Will add more details soon. 
+
 Will include photos / videos when the install is completed, thanks for reading.
